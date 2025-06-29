@@ -3,7 +3,7 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster"
 
 export const metadata: Metadata = {
-  title: 'MediFolio | Dr. Jane Doe',
+  title: 'Portfolio | Dr. Nikhil Barnawal',
   description: 'Portfolio for an intern doctor showcasing skills, projects, and experience.',
 };
 

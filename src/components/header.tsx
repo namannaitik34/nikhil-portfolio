@@ -59,7 +59,7 @@ const Header = () => {
         <div className="flex justify-between items-center h-20">
           <Link href="#home" className="flex items-center gap-2">
             <Stethoscope className="w-8 h-8 text-primary" />
-            <span className="text-2xl font-headline font-bold text-primary">MediFolio</span>
+            <span className="text-2xl font-headline font-bold text-primary">Nikhil Barnawal</span>
           </Link>
           
           <nav className="hidden md:flex items-center space-x-8">

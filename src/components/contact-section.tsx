@@ -69,7 +69,7 @@ const ContactSection = () => {
                       <FormItem>
                         <FormLabel>Full Name</FormLabel>
                         <FormControl>
-                          <Input placeholder="John Doe" {...field} />
+                          <Input placeholder="Divyanshu" {...field} />
                         </FormControl>
                         <FormMessage />
                       </FormItem>
@@ -82,7 +82,7 @@ const ContactSection = () => {
                       <FormItem>
                         <FormLabel>Email Address</FormLabel>
                         <FormControl>
-                          <Input placeholder="john.doe@example.com" {...field} />
+                          <Input placeholder="divyanshu@gmail.com" {...field} />
                         </FormControl>
                         <FormMessage />
                       </FormItem>
@@ -111,17 +111,17 @@ const ContactSection = () => {
                 Feel free to reach out for collaborations, questions, or just to connect.
               </p>
               <div className="space-y-6">
-                <a href="mailto:jane.doe@medifolio.com" className="flex items-center gap-4 group">
+                <a href="mailto:doccnik29@gmail.com" className="flex items-center gap-4 group">
                   <Mail className="w-6 h-6 text-accent" />
-                  <span className="group-hover:underline">jane.doe@medifolio.com</span>
+                  <span className="group-hover:underline">doccnik29@gmail.com</span>
                 </a>
                 <div className="flex items-center gap-4">
                   <Phone className="w-6 h-6 text-accent" />
-                  <span>(123) 456-7890</span>
+                  <span>(+91) 9801936974</span>
                 </div>
                 <a href="#" className="flex items-center gap-4 group">
                   <Linkedin className="w-6 h-6 text-accent" />
-                  <span className="group-hover:underline">linkedin.com/in/janedoe-md</span>
+                  <span className="group-hover:underline">linkedin.com/in/</span>
                 </a>
               </div>
             </div>

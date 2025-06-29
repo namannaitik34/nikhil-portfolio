@@ -22,10 +22,10 @@ const AboutSection = () => {
               <CardTitle className="font-headline text-2xl">Education</CardTitle>
             </CardHeader>
             <CardContent>
-              <p className="font-bold">Doctor of Medicine (MD)</p>
-              <p className="text-muted-foreground">University of Health Sciences, 2023</p>
-              <p className="mt-2 font-bold">B.Sc. in Biological Sciences</p>
-              <p className="text-muted-foreground">State University, 2019</p>
+              <p className="font-bold">Bachelor of Medicine, Bachelor of Surgery (MBBS)</p>
+              <p className="text-muted-foreground">Nalanda Medical College and Hospital</p>
+              <p className="mt-2 font-bold">MBBS</p>
+              <p className="text-muted-foreground">AKU University, 2025</p>
             </CardContent>
           </Card>
           <Card className="text-center bg-card/80 backdrop-blur-sm border-border/50 shadow-lg transform hover:scale-105 transition-transform duration-300">
@@ -36,9 +36,9 @@ const AboutSection = () => {
               <CardTitle className="font-headline text-2xl">Internship</CardTitle>
             </CardHeader>
             <CardContent>
-              <p className="font-bold">General Hospital Downtown</p>
+              <p className="font-bold">General Hospital, NMCH</p>
               <p className="text-muted-foreground">Rotations in Internal Medicine, Pediatrics, Surgery, and OB/GYN.</p>
-              <p className="mt-2">2023 - Present</p>
+              <p className="mt-2">July 2025 - Present</p>
             </CardContent>
           </Card>
           <Card className="text-center bg-card/80 backdrop-blur-sm border-border/50 shadow-lg transform hover:scale-105 transition-transform duration-300">

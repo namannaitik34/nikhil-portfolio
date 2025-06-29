@@ -8,7 +8,7 @@ const LandingSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 items-center gap-12">
           <div className="text-center md:text-left">
             <h1 className="text-5xl md:text-7xl font-headline font-bold text-primary leading-tight mb-4">
-              Dr. Jane Doe
+ Dr. Nikhil Barnawal
             </h1>
             <p className="text-xl md:text-2xl text-foreground/80 mb-8">
               Compassionate Care, Modern Medicine.
@@ -25,7 +25,7 @@ const LandingSection = () => {
           <div className="flex justify-center">
             <div className="relative w-[300px] h-[450px] lg:w-[400px] lg:h-[600px] rounded-lg overflow-hidden shadow-2xl transform rotate-3 transition-transform duration-500 hover:rotate-0 hover:scale-105">
               <Image
-                src="https://placehold.co/400x600.png"
+                src="https://i.ibb.co/LDg97ZmN/Whats-App-Image-2025-06-29-at-13-37-47.jpg"
                 alt="Portrait of Dr. Jane Doe"
                 fill
                 style={{ objectFit: 'cover' }}

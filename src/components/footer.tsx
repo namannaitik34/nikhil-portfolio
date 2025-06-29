@@ -7,8 +7,8 @@ const Footer = () => {
       <div className="container mx-auto px-4 py-8">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="text-center md:text-left mb-4 md:mb-0">
-            <h3 className="text-xl font-headline">Dr. Jane Doe</h3>
-            <p className="text-sm opacity-70">&copy; {new Date().getFullYear()} MediFolio. All Rights Reserved.</p>
+            <h3 className="text-xl font-headline">Dr. Nikhil Barnawal</h3>
+            <p className="text-sm opacity-70">&copy; {new Date().getFullYear()} nikhil.com. All Rights Reserved.</p>
           </div>
           <div className="flex items-center space-x-2">
             <Button variant="ghost" size="icon" asChild className="text-primary-foreground hover:bg-primary-foreground/10">

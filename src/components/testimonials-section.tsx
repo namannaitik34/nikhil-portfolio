@@ -10,19 +10,19 @@ import { Quote } from "lucide-react";
 
 const testimonials = [
   {
-    quote: "Jane is one of the most dedicated and compassionate interns I've had the pleasure to work with. Her clinical skills are matched only by her empathy for patients.",
-    name: "Dr. Robert Chen",
-    title: "Attending Physician, General Hospital",
+    quote: "Nikhil is one of the most dedicated and compassionate interns I've had the pleasure to work with. Her clinical skills are matched only by her empathy for patients.",
+    name: "Dr. Saurabh",
+    title: "Attending internship, General Hospital, NMCH",
   },
   {
-    quote: "An exceptional team player and a quick learner. Jane consistently goes above and beyond, showing great promise as a future leader in medicine.",
-    name: "Dr. Emily Rodriguez",
-    title: "Pediatrics Department Head",
+    quote: "An exceptional team player and a quick learner. Nikhil consistently goes above and beyond, showing great promise as a future leader in medicine.",
+    name: "Dr. Saloni Gupta",
+    title: "intern at General Hospital, Government Medical College,Bettiah",
   },
   {
-    quote: "Her attention to detail and commitment to evidence-based practice are truly commendable. Patients are always in excellent hands with her.",
-    name: "Dr. Samuel Jones",
-    title: "Chief Surgical Resident",
+    quote: "His attention to detail and commitment to evidence-based practice are truly commendable. Patients are always in excellent hands with her.",
+    name: "Dr. Abhinav",
+    title: "Attending internship, General Hospital, NMCH",
   },
 ];
 

@@ -5,6 +5,7 @@ import AboutSection from '@/components/about-section';
 import ProjectsSection from '@/components/projects-section';
 import TestimonialsSection from '@/components/testimonials-section';
 import ContactSection from '@/components/contact-section';
+import HobbiesSection from '@/components/hobbies-section';
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <main className="flex-grow">
         <LandingSection />
         <AboutSection />
+        <HobbiesSection />
         <ProjectsSection />
         <TestimonialsSection />
         <ContactSection />

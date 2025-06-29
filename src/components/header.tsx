@@ -9,6 +9,7 @@ import { Menu, Stethoscope } from "lucide-react";
 const navLinks = [
   { href: "#home", label: "Home" },
   { href: "#about", label: "About" },
+  { href: "#hobbies", label: "Hobbies" },
   { href: "#projects", label: "Projects" },
   { href: "#testimonials", label: "Testimonials" },
   { href: "#contact", label: "Contact" },
